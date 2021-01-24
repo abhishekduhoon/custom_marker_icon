@@ -1,6 +1,6 @@
 name: custom_marker_icon
-description: Use Asset Image or Network Image as Google Map Marker's icon.
-version: 0.1.0
+description: A package to use local image, network image and icons as google_maps_flutter's marker icon.
+version: 0.2.0
 repository: https://github.com/abhishekduhoon/custom_marker_icon
 issue_tracker: https://github.com/abhishekduhoon/custom_marker_icon/issues
 
